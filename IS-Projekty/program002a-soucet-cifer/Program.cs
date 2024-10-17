@@ -30,6 +30,7 @@ class Program {
         int suma = 0;
         int numberBackup = number;
         int digit;
+        int soucinSuma = 1;
 
         if (number < 0) {
             number = - number;
@@ -40,14 +41,18 @@ class Program {
             number = (number - digit) / 10;
             Console.WriteLine("Digit = {0}", digit);
             suma = suma + digit;
+            soucinSuma = soucinSuma * digit;
         }
         Console.WriteLine("Digit = {0}", number);
         suma = suma + number;
-
+        soucinSuma = soucinSuma * number;    
+        
+        
 
         Console.WriteLine();
         Console.WriteLine("=====================================");
         Console.WriteLine("Součet cifer čísla {0} je {1}", numberBackup, suma);
+        Console.WriteLine("Součin cifer čísla {0} je {1}", numberBackup, soucinSuma);
         Console.WriteLine("=====================================");
 
         //Opakování programu - TO DO
