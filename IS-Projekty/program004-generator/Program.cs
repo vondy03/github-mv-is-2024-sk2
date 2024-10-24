@@ -34,8 +34,21 @@ class Program {
             Console.Write("Nezadali jste celé číslo. Zadejte znovu Zadejte horní mez (celé číslo):");
         }
 
+        //deklarace pole
+        int[] myArray = new int[n];
 
-        //Výpis uživatelského výstupu
+        // příprava pro generování náhodných čísel
+        Random randomNumber = new Random();
+
+        Console.WriteLine("Náhodná čísla: ");
+        for (int i = 0; i < n; i++)
+        {
+        myArray[i] = randomNumber.Next(dm, hm+1);
+        Console.Write("{0}; ", myArray[i]);
+        }
+
+
+        //Výpis uživatelského vstupu
         Console.WriteLine();
         Console.WriteLine("=====================================");
         Console.WriteLine("Uživatelský vstup:");
