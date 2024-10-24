@@ -39,12 +39,29 @@ class Program {
 
         // příprava pro generování náhodných čísel
         Random randomNumber = new Random();
+        int negative = 0;
+        int positive = 0;
+        int zeroes = 0;
+        int suda = 0;
+        int licha = 0;
 
         Console.WriteLine("Náhodná čísla: ");
         for (int i = 0; i < n; i++)
         {
         myArray[i] = randomNumber.Next(dm, hm+1);
         Console.Write("{0}; ", myArray[i]);
+        if (myArray[i] > 0)
+            positive ++;
+        else
+        if (myArray[i] < 0)
+            negative ++;
+        else
+            zeroes ++;
+
+        if(myArray[i] % 2 == 0)
+            suda++;
+        else
+            licha++;
         }
 
 
@@ -53,7 +70,10 @@ class Program {
         Console.WriteLine("=====================================");
         Console.WriteLine("Uživatelský vstup:");
         Console.WriteLine("Počet čísel: {0}; dolní mez {1}; horní mez {2}", n, dm ,hm);
+        Console.WriteLine("Počet čísel sudých: {0}; počet čísel lichých {1}", suda, licha);
         Console.WriteLine("=====================================\n\n");
+        Console.WriteLine("Počet kladných čísel: {0}, počet záporných čísel: {1}, počet nul: {2}\n\n", positive, negative, zeroes);
+
 
         //Opakování programu - TO DO
         Console.WriteLine("Pro opakování programu stiskněte klávesu a");
