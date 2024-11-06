@@ -1,0 +1,15 @@
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program003a-vykreslovani-obrazcu\program003c-vykreslovani-obrazcu\bin\Debug\net8.0\program003c-vykreslovani-obrazcu.exe
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program003a-vykreslovani-obrazcu\program003c-vykreslovani-obrazcu\bin\Debug\net8.0\program003c-vykreslovani-obrazcu.deps.json
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program003a-vykreslovani-obrazcu\program003c-vykreslovani-obrazcu\bin\Debug\net8.0\program003c-vykreslovani-obrazcu.runtimeconfig.json
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program003a-vykreslovani-obrazcu\program003c-vykreslovani-obrazcu\bin\Debug\net8.0\program003c-vykreslovani-obrazcu.dll
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program003a-vykreslovani-obrazcu\program003c-vykreslovani-obrazcu\bin\Debug\net8.0\program003c-vykreslovani-obrazcu.pdb
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program003a-vykreslovani-obrazcu\program003c-vykreslovani-obrazcu\obj\Debug\net8.0\program003c-vykreslovani-obrazcu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program003a-vykreslovani-obrazcu\program003c-vykreslovani-obrazcu\obj\Debug\net8.0\program003c-vykreslovani-obrazcu.AssemblyInfoInputs.cache
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program003a-vykreslovani-obrazcu\program003c-vykreslovani-obrazcu\obj\Debug\net8.0\program003c-vykreslovani-obrazcu.AssemblyInfo.cs
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program003a-vykreslovani-obrazcu\program003c-vykreslovani-obrazcu\obj\Debug\net8.0\program003c-vykreslovani-obrazcu.csproj.CoreCompileInputs.cache
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program003a-vykreslovani-obrazcu\program003c-vykreslovani-obrazcu\obj\Debug\net8.0\program003c-vykreslovani-obrazcu.sourcelink.json
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program003a-vykreslovani-obrazcu\program003c-vykreslovani-obrazcu\obj\Debug\net8.0\program003c-vykreslovani-obrazcu.dll
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program003a-vykreslovani-obrazcu\program003c-vykreslovani-obrazcu\obj\Debug\net8.0\refint\program003c-vykreslovani-obrazcu.dll
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program003a-vykreslovani-obrazcu\program003c-vykreslovani-obrazcu\obj\Debug\net8.0\program003c-vykreslovani-obrazcu.pdb
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program003a-vykreslovani-obrazcu\program003c-vykreslovani-obrazcu\obj\Debug\net8.0\program003c-vykreslovani-obrazcu.genruntimeconfig.cache
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program003a-vykreslovani-obrazcu\program003c-vykreslovani-obrazcu\obj\Debug\net8.0\ref\program003c-vykreslovani-obrazcu.dll
