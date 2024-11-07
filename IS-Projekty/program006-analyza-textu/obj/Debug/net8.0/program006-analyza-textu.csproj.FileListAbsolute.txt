@@ -1,0 +1,15 @@
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program006-analyza-textu\bin\Debug\net8.0\program006-analyza-textu.exe
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program006-analyza-textu\bin\Debug\net8.0\program006-analyza-textu.deps.json
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program006-analyza-textu\bin\Debug\net8.0\program006-analyza-textu.runtimeconfig.json
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program006-analyza-textu\bin\Debug\net8.0\program006-analyza-textu.dll
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program006-analyza-textu\bin\Debug\net8.0\program006-analyza-textu.pdb
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program006-analyza-textu\obj\Debug\net8.0\program006-analyza-textu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program006-analyza-textu\obj\Debug\net8.0\program006-analyza-textu.AssemblyInfoInputs.cache
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program006-analyza-textu\obj\Debug\net8.0\program006-analyza-textu.AssemblyInfo.cs
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program006-analyza-textu\obj\Debug\net8.0\program006-analyza-textu.csproj.CoreCompileInputs.cache
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program006-analyza-textu\obj\Debug\net8.0\program006-analyza-textu.sourcelink.json
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program006-analyza-textu\obj\Debug\net8.0\program006-analyza-textu.dll
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program006-analyza-textu\obj\Debug\net8.0\refint\program006-analyza-textu.dll
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program006-analyza-textu\obj\Debug\net8.0\program006-analyza-textu.pdb
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program006-analyza-textu\obj\Debug\net8.0\program006-analyza-textu.genruntimeconfig.cache
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program006-analyza-textu\obj\Debug\net8.0\ref\program006-analyza-textu.dll
