@@ -1,0 +1,15 @@
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program007-razeni-bubble-sort\bin\Debug\net8.0\program007-razeni-bubble-sort.exe
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program007-razeni-bubble-sort\bin\Debug\net8.0\program007-razeni-bubble-sort.deps.json
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program007-razeni-bubble-sort\bin\Debug\net8.0\program007-razeni-bubble-sort.runtimeconfig.json
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program007-razeni-bubble-sort\bin\Debug\net8.0\program007-razeni-bubble-sort.dll
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program007-razeni-bubble-sort\bin\Debug\net8.0\program007-razeni-bubble-sort.pdb
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program007-razeni-bubble-sort\obj\Debug\net8.0\program007-razeni-bubble-sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program007-razeni-bubble-sort\obj\Debug\net8.0\program007-razeni-bubble-sort.AssemblyInfoInputs.cache
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program007-razeni-bubble-sort\obj\Debug\net8.0\program007-razeni-bubble-sort.AssemblyInfo.cs
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program007-razeni-bubble-sort\obj\Debug\net8.0\program007-razeni-bubble-sort.csproj.CoreCompileInputs.cache
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program007-razeni-bubble-sort\obj\Debug\net8.0\program007-razeni-bubble-sort.sourcelink.json
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program007-razeni-bubble-sort\obj\Debug\net8.0\program007-razeni-bubble-sort.dll
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program007-razeni-bubble-sort\obj\Debug\net8.0\refint\program007-razeni-bubble-sort.dll
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program007-razeni-bubble-sort\obj\Debug\net8.0\program007-razeni-bubble-sort.pdb
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program007-razeni-bubble-sort\obj\Debug\net8.0\program007-razeni-bubble-sort.genruntimeconfig.cache
+C:\Users\matya\Desktop\IS-2024\github-mv-is-2024-sk2\IS-Projekty\program007-razeni-bubble-sort\obj\Debug\net8.0\ref\program007-razeni-bubble-sort.dll
